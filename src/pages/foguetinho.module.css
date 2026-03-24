@@ -1,0 +1,54 @@
+.multiplicador{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 50px;
+}
+
+.multiplicadorParado{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 50px;
+}
+
+.gif {
+    height: 200px;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    height: auto;
+}
